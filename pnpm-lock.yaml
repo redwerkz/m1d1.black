@@ -25,7 +25,7 @@ specifiers:
   stylelint-config-recommended-scss: ^9.0.0
   stylelint-config-standard: ^30.0.0
   stylelint-prettier: ^3.0.0
-  svgo: ~2.8.0
+  svgo: ~3.0.0
   typescript: ^4.9.4
 
 devDependencies:
@@ -53,7 +53,7 @@ devDependencies:
   stylelint-config-recommended-scss: 9.0.1_xczz5gvex7qa2pnzrs7ducdpai
   stylelint-config-standard: 30.0.1_stylelint@15.2.0
   stylelint-prettier: 3.0.0_7tfqzuwksfwysdxnjpqifqt36u
-  svgo: 2.8.0
+  svgo: 3.0.2
   typescript: 4.9.5
 
 packages:
